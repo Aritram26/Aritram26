@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Aritram Sarkar</h1>
 <h3 align="center">A passionate Front-End Developer & a Photographer.</h3>
-
+<img align="left" alt="coding" width="400" src="https://github.com/DevMoonTv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritram26&label=Profile%20views&color=0e75b6&style=flat" alt="aritram26" /> </p>
 
 - 🌱 I’m currently learning **Android Development**
