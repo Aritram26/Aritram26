@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Aritram26/githubbanner/blob/main/Blue%20%26%20Teal%20Modern%20Personal%20LinkedIn%20Banner%20(1).png)
 <!--
 **Aritram26/Aritram26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
