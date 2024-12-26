@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://aritrams-portfolio.netlify.app/](https://aritrams-portfolio.netlify.app/)
+- 👨‍💻 First Website [https://aritrams-portfolio.netlify.app/](https://aritrams-portfolio.netlify.app/)
+
+- 👨‍💻 Second Website [https://aritramsarkar.netlify.app/](https://aritramsarkar.netlify.app/) 
 
 - 📫 How to reach me **aritramsarkar2003@gmail.com**
 
